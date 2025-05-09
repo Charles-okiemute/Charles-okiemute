@@ -50,8 +50,9 @@ I'm a passionate frontend developer skilled in building responsive, user-friendl
 
 ---
 
-<br clear="both">
+### 🙌 Thanks for stopping by!
 
-<!-- Optional Snake Animation -->
-<img src="https://raw.githubusercontent.com/your-github-username/your-github-username/output/snake.svg" alt="Snake animation" />
-
+<p align="center">
+  <b>Let's build something great together.</b><br/>
+  <em>Have a great day! 😊</em>
+</p>
